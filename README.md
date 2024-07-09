@@ -4,7 +4,7 @@ SPA Vue3 application with Pinia/Vite/Vue-Router/SCSS with API https://api.curren
 Deployed with vercel.com using serverless function.
 
 ## Demo
-[https://test-task_tariff-calculator-zeta-two.vercel.app/](https://test-task_tariff-calculator-zeta-two.vercel.app/)
+[https://test-task-tariff-calculator.vercel.app/](https://test-task-tariff-calculator.vercel.app/)
 
 ## Launch project locally
 ```
