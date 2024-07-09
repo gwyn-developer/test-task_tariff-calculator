@@ -1,6 +1,6 @@
 # test-task_tariff-calculator
 
-SPA Vue3 application with Pinia/Vite/Vue-Router/SCSS with API https://api.currencyfreaks.com/ - calculation of cost depending on parameters, receiving data from the server, adaptive.<br/>
+SPA Vue3 application with Pinia/Vite/Vue-Router/SCSS with API https://currencyfreaks.com - calculation of cost depending on parameters, receiving data from the server, adaptive.<br/>
 Deployed with vercel.com using serverless function.
 
 ## Demo
